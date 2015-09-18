@@ -11,3 +11,6 @@ No dependencies.
 
 # Repository Structure
 * _css : contains the main stylesheets
+
+## License
+Read Licence.md to know about the GPLV3 License.
